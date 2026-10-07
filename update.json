@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.1/treney.apk",
-  "notes": "Lembrete no horário escolhido, tela acesa na série e aviso no fim do descanso."
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.2/treney.apk",
+  "notes": "Ajustes na engrenagem de Hoje: nível, lembrete, tela acesa, som do descanso, cópia do histórico e atualização. O treino fica em Hoje. Toques maiores e o voltar do Android."
 }
