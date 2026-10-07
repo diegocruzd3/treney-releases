@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.0/treney.apk",
-  "notes": "Primeira versão instalável."
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.1/treney.apk",
+  "notes": "Lembrete no horário escolhido, tela acesa na série e aviso no fim do descanso."
 }
