@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.3/treney.apk",
-  "notes": "A busca de versão nova roda ao abrir e ao voltar ao app, no máximo a cada 30 minutos. Uma checagem em dia não esconde a versão seguinte."
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/diegocruzd3/treney-releases/releases/download/v1.4/treney.apk",
+  "notes": "Histórico das sessões, com repetições e cor. Um aviso quando o próximo elástico já cabe."
 }
